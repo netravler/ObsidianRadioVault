@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "b8decae70cce26bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "941aa6ffb5d3e3e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "azure servierless email kindof.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc21b3af2b08747d",
+    "type": "split",
+    "children": [
+      {
+        "id": "52d981187e196b7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3e51b1d08be12d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a46b902b472e2e28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8060536ae21756f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9d75d412b5574a07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3512a1dbb29d7b45",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6130b5ad0e6b3342",
+    "type": "split",
+    "children": [
+      {
+        "id": "0840132878f488b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11ff2b27ae580deb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "azure servierless email kindof.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1135804ae4a764d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a06fc8293cbade0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "azure servierless email kindof.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1e79c90d7d6a324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9f57625d2105828",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "941aa6ffb5d3e3e2",
+  "lastOpenFiles": [
+    "azure servierless email kindof.md",
+    "2022-01-07.md",
+    "API.md",
+    "BpowerBI.md",
+    "Templates.md",
+    "Obsidian tutorials.md",
+    "Excalidraw/Drawing 2022-01-07 08.07.01.excalidraw.md",
+    "Subaru service and repairs.md",
+    "Workforce.md",
+    "aviationstack.md"
+  ]
+}
