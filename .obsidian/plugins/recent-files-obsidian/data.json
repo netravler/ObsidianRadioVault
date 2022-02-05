@@ -1,44 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "azure servierless email kindof",
-      "path": "azure servierless email kindof.md"
+      "basename": "How to install Brew on Ubuntu 20.04 LTS Linux",
+      "path": "Zettelkasten/How to install Brew on Ubuntu 20.04 LTS Linux.md"
     },
     {
-      "basename": "2022-01-07",
-      "path": "2022-01-07.md"
+      "basename": "The Definitive Guide To InfluxDB In 2019 — devconnected",
+      "path": "Zettelkasten/The Definitive Guide To InfluxDB In 2019 — devconnected.md"
+    },
+    {
+      "basename": "Beautify Your GitHub Profile like a Pro",
+      "path": "Zettelkasten/Beautify Your GitHub Profile like a Pro.md"
+    },
+    {
+      "basename": "Centralized logging in Kubernetes",
+      "path": "Zettelkasten/Centralized logging in Kubernetes.md"
+    },
+    {
+      "basename": "How I Discovered Thousands of Open Databases on AWS",
+      "path": "Zettelkasten/How I Discovered Thousands of Open Databases on AWS.md"
+    },
+    {
+      "basename": "macOS is Hot Garbage",
+      "path": "Zettelkasten/macOS is Hot Garbage.md"
+    },
+    {
+      "basename": "htop install",
+      "path": "Zettelkasten/htop install.md"
+    },
+    {
+      "basename": "Monitoring Linux Processes using Prometheus and Grafana",
+      "path": "Zettelkasten/Monitoring Linux Processes using Prometheus and Grafana.md"
+    },
+    {
+      "basename": "Creating and publishing PowerShell Modules to Azure Artifacts with Azure DevOps YAML Pipelines",
+      "path": "Zettelkasten/Creating and publishing PowerShell Modules to Azure Artifacts with Azure DevOps YAML Pipelines.md"
+    },
+    {
+      "basename": "grafana cloud windows integration",
+      "path": "Zettelkasten/grafana cloud windows integration.md"
+    },
+    {
+      "basename": "linux node_exporter",
+      "path": "Zettelkasten/linux node_exporter.md"
+    },
+    {
+      "basename": "OctopusNexus",
+      "path": "Zettelkasten/OctopusNexus.md"
+    },
+    {
+      "basename": "How to Install Prometheus on centor 7",
+      "path": "Zettelkasten/How to Install Prometheus on centor 7.md"
+    },
+    {
+      "basename": "How to Install Prometheus on Ubuntu 20.04",
+      "path": "Zettelkasten/How to Install Prometheus on Ubuntu 20.04.md"
+    },
+    {
+      "basename": "prometheus full install linux",
+      "path": "Zettelkasten/prometheus full install linux.md"
+    },
+    {
+      "basename": "Kubernetes Prometheus Monitoring with Helm",
+      "path": "Zettelkasten/Kubernetes Prometheus Monitoring with Helm.md"
+    },
+    {
+      "basename": "gns3",
+      "path": "Zettelkasten/gns3.md"
+    },
+    {
+      "basename": "PowerBI",
+      "path": "PowerBI.md"
     },
     {
       "basename": "API",
       "path": "API.md"
     },
     {
-      "basename": "BpowerBI",
-      "path": "BpowerBI.md"
+      "basename": "led",
+      "path": "Zettelkasten/led.md"
     },
     {
-      "basename": "Templates",
-      "path": "Templates.md"
+      "basename": "Ploty - python test",
+      "path": "Zettelkasten/Ploty - python test.md"
     },
     {
-      "basename": "Obsidian tutorials",
-      "path": "Obsidian tutorials.md"
+      "basename": "Redis",
+      "path": "Zettelkasten/Redis.md"
     },
     {
-      "basename": "Drawing 2022-01-07 08.07.01.excalidraw",
-      "path": "Excalidraw/Drawing 2022-01-07 08.07.01.excalidraw.md"
+      "basename": "setup redis on centos 7",
+      "path": "Zettelkasten/setup redis on centos 7.md"
     },
     {
-      "basename": "Subaru service and repairs",
-      "path": "Subaru service and repairs.md"
+      "basename": "NSSM",
+      "path": "Zettelkasten/NSSM.md"
+    },
+    {
+      "basename": "setup prometheus grafana jenkins nginx",
+      "path": "Zettelkasten/setup prometheus grafana jenkins nginx.md"
+    },
+    {
+      "basename": "windows_exporter",
+      "path": "Zettelkasten/windows_exporter.md"
+    },
+    {
+      "basename": "nginx metrics",
+      "path": "Zettelkasten/nginx metrics.md"
+    },
+    {
+      "basename": "python version discovery",
+      "path": "Zettelkasten/python version discovery.md"
+    },
+    {
+      "basename": "Miller welding projects",
+      "path": "Zettelkasten/Miller welding projects.md"
+    },
+    {
+      "basename": "Run python via jupyter pluggin",
+      "path": "Zettelkasten/Run python via jupyter pluggin.md"
+    },
+    {
+      "basename": "splunk stuff ip based",
+      "path": "Zettelkasten/splunk stuff ip based.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "prometheus",
+      "path": "prometheus.md"
+    },
+    {
+      "basename": "ngginex instance in aks azure",
+      "path": "Zettelkasten/ngginex instance in aks azure.md"
+    },
+    {
+      "basename": "splunk",
+      "path": "Zettelkasten/splunk.md"
+    },
+    {
+      "basename": "whois script",
+      "path": "Zettelkasten/whois script.md"
+    },
+    {
+      "basename": "awk - make delimited list script",
+      "path": "Zettelkasten/awk - make delimited list script.md"
+    },
+    {
+      "basename": "ASN numbers",
+      "path": "Zettelkasten/ASN numbers.md"
+    },
+    {
+      "basename": "prometheus and grapfana",
+      "path": "Zettelkasten/prometheus and grapfana.md"
+    },
+    {
+      "basename": "splunk stuff",
+      "path": "Zettelkasten/splunk stuff.md"
+    },
+    {
+      "basename": "rebar welding projects",
+      "path": "Zettelkasten/rebar welding projects.md"
+    },
+    {
+      "basename": "Welding Projects",
+      "path": "Zettelkasten/Welding Projects.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Radio Information/Untitled.md"
+    },
+    {
+      "basename": "uberti",
+      "path": "uberti.md"
+    },
+    {
+      "basename": "Move to Florida - via remote",
+      "path": "Move to Florida - via remote.md"
+    },
+    {
+      "basename": "Map of Content",
+      "path": "Templates/Map of Content.md"
+    },
+    {
+      "basename": "note template",
+      "path": "Templates/note template.md"
+    },
+    {
+      "basename": "PRC-104",
+      "path": "Radio Information/PRC-104.md"
+    },
+    {
+      "basename": "Ron Dugan Obituary",
+      "path": "Ron Dugan Obituary.md"
     },
     {
       "basename": "Workforce",
       "path": "Workforce.md"
-    },
-    {
-      "basename": "aviationstack",
-      "path": "aviationstack.md"
     }
   ],
   "omittedPaths": [],

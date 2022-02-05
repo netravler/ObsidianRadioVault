@@ -1,20 +1,26 @@
-.iframe__container > iframe {
-    display: block;
-    margin: 1em;
-    height: 300px;
+.iframe__modal {
+    max-width: 90vw;
 }
 
-iframe.resize-both {
-    width: 100%;
-    resize: both;
+.iframe__modal .space-y {
+    margin-top: 1em;
 }
 
-iframe.resize-vertical {
-    width: 100%;
-    resize: vertical;
+.iframe__modal__container {
+    max-width: 100%;
 }
 
-.iframe__container > .button__container {
-    margin: auto;
+.iframe__modal__container .iframe__container{
+	min-height:  300px;
+}
+
+.iframe__modal__container .iframe__container iframe {
+    position: relative;
+	overflow: auto;
+	resize: both;
+    max-width: 100%;
+}
+
+.iframe__modal__container .button__container {
     text-align: center;
 }

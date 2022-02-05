@@ -6,8 +6,10 @@
   "showUnsupportedFiles": true,
   "trashOption": "local",
   "promptDelete": false,
-  "legacyEditor": true,
+  "legacyEditor": false,
   "livePreview": true,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten"
 }

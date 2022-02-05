@@ -1,6 +1,5 @@
 [
   "sliding-panes-obsidian",
-  "calendar",
   "obsidian-mind-map",
   "dataview",
   "obsidian-git",
@@ -16,5 +15,11 @@
   "emoji-shortcodes",
   "obsidian-style-settings",
   "recent-files-obsidian",
-  "obsidian-jupyter"
+  "obsidian-jupyter",
+  "calendar",
+  "better-word-count",
+  "obsidian-extract-pdf-highlights",
+  "obsidian-plugin-todo",
+  "obsidian-autocomplete-plugin",
+  "templater-obsidian"
 ]
