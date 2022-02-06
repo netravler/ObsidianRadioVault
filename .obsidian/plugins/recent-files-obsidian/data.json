@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Zettelkasten/Untitled.md"
+    },
+    {
       "basename": "semester spring 2022",
       "path": "Zettelkasten/semester spring 2022.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PRC-104",
       "path": "Radio Information/PRC-104.md"
-    },
-    {
-      "basename": "Ron Dugan Obituary",
-      "path": "Ron Dugan Obituary.md"
     }
   ],
   "omittedPaths": [],
