@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Quick Start to Vagrant on Windows 10",
+      "path": "Zettelkasten/Quick Start to Vagrant on Windows 10.md"
+    },
+    {
       "basename": "How to install Brew on Ubuntu 20.04 LTS Linux",
       "path": "Zettelkasten/How to install Brew on Ubuntu 20.04 LTS Linux.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ron Dugan Obituary",
       "path": "Ron Dugan Obituary.md"
-    },
-    {
-      "basename": "Workforce",
-      "path": "Workforce.md"
     }
   ],
   "omittedPaths": [],
