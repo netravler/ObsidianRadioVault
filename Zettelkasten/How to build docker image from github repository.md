@@ -1,180 +1,94 @@
-# [How to build docker image from github repository](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository)
+In this tutorial we will learn how to build a Dockerfile hosted at Github in a completely automated way, using Docker Hub.
 
+Prerequisites:
 
-[](https://stackoverflow.com/posts/26753030/timeline)
+-   A Github account
+-   A Docker account
+-   A working Docker installation on your pc
 
-In official docs we can see:
+In case you need help installing Docker, you can find a detailed guide [here](https://www.docker.com/get-started) on the Docker website.
 
-```
-# docker build github.com/creack/docker-firefox
-```
+If you are using **Windows** or **Mac**, I suggest that you install Docker for Windows/Mac.
 
-It just works fine to me. `docker-firefox` is a repository and has `Dockerfile` within root dir.  
-Then I want to buid redis image and exact version 2.8.10 :
+If you are using **Linux**, you can find [here](https://docs.docker.com/install/linux/docker-ce/debian/) a guide on how to install Docker.
 
-```
-# docker build github.com/docker-library/redis/tree/99c172e82ed81af441e13dd48dda2729e19493bc/2.8.10
-2014/11/05 16:20:32 Error trying to use git: exit status 128 (Initialized empty Git repository in /tmp/docker-build-git067001920/.git/
-error: The requested URL returned error: 403 while accessing https://github.com/docker-library/redis/tree/99c172e82ed81af441e13dd48dda2729e19493bc/2.8.10/info/refs
+**Watch Out!** If you are using **Linux**, you have to run all of the docker commands using sudo or it will not work.
 
-fatal: HTTP request failed
-)
-```
+For this tutorial I will assume that you have some basic knowledge of how to create a Github repository.
 
-I got error above. What's the right format with build docker image from github repos?
+If this is your first time working with Github, take a look at this great [introductory tutorial](https://guides.github.com/activities/hello-world/) to get started!
 
-[redis](https://stackoverflow.com/questions/tagged/redis "show questions tagged 'redis'")[docker](https://stackoverflow.com/questions/tagged/docker "show questions tagged 'docker'")
+In case you have never created a Docker repository, take a look at the [official guide](https://docs.docker.com/docker-hub/repos/), we will however cover those steps in this tutorial!
 
-[Share](https://stackoverflow.com/q/26753030/14867493 "Short permalink to this question")
+## Set up a Github repository[Permalink](https://techytok.com/docker-build-from-github/#set-up-a-github-repository "Permalink")
 
-[Edit](https://stackoverflow.com/posts/26753030/edit "Revise and improve this post")
+First of all, we need to setup a Github repository to host our Dockerfile.
 
-Follow
+There are many ways to organize your repository. In a general case, we have several folders containing the documentation of the project, the source, ecc. For this tutorial, I will create a folder in my repository containing the examples for this website, and there I will place my Dockerfile.
 
-asked Nov 5 '14 at 8:57
+You can place your Dockerfile wherever you want, even at the root of the repository, just note down the path to it.
 
-[
+![image-center](https://techytok.com/assets/images/2019/05/04/1-github-repo.png)
 
-![](https://lh6.googleusercontent.com/-_9Xa479Vabs/AAAAAAAAAAI/AAAAAAAAABE/cIrae5Xtcss/photo.jpg?sz=64)
+For this tutorial we will use the following Dockerfile:
 
-](https://stackoverflow.com/users/4162734/seanlook)
+1234`FROM busybox
+MAINTAINER Aurelio Amerio
 
-[seanlook](https://stackoverflow.com/users/4162734/seanlook)
+CMD ["echo", "Hello World! This is TeckyTok!"]` 
 
-83722 gold badges99 silver badges1313 bronze badges
+## Set up a Docker Hub repository[Permalink](https://techytok.com/docker-build-from-github/#set-up-a-docker-hub-repository "Permalink")
 
--   Docs: [docs.docker.com/engine/reference/commandline/build/…](https://docs.docker.com/engine/reference/commandline/build/#git-repositories) 
-    
-    – [Dilhan Jayathilake](https://stackoverflow.com/users/1891699/dilhan-jayathilake "1,662 reputation")
-    
-     [Apr 25 '18 at 23:29](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository/39194765#comment87081506_26753030)
-    
+Go to [Docker Hub](https://techytok.com/docker-build-from-github/#https://hub.docker.com/) and, once you are logged in follow [this guide](https://docs.docker.com/docker-hub/builds/link-source/) to link your Github account to your Docker account.
 
-[Add a comment](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository/39194765# "Use comments to ask for more information or suggest improvements. Avoid answering questions in comments.")
+Once Github is linked, you can proceed to create a Docker repository. Go to the Docker Hub [homepage](https://techytok.com/docker-build-from-github/#https://hub.docker.com) and click on `Create Repository`. Choose the name of the repository and set it to public (or private, if you don’t already have a private repository).
 
-## 3 Answers
+![image-center](https://techytok.com/assets/images/2019/05/04/2-docker-repo.png)
 
-[Active](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository?answertab=active#tab-top "Answers with the latest activity first")[Oldest](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository?answertab=oldest#tab-top "Answers in the order they were provided")[Score](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository?answertab=votes#tab-top "Answers with the highest score first")
+Once you have created a Docker Hub repository, you cannot change its name. I therefore suggest that you choose a meaningful name.
 
-45
+Open your newly created repository (or an existing one, if you prefer) and click on the `Builds` tab.
 
-[](https://stackoverflow.com/posts/39194765/timeline)
+![image-center](https://techytok.com/assets/images/2019/05/04/3-docker-repo-build.png)
 
-`docker build url#ref:dir`
+Now press `Configure Automated Builds` (top right corner) and select your Github repository.
 
-> Git URLs accept context configuration in their fragment section, separated by a colon :. The first part represents the reference that Git will check out, this can be either a branch, a tag, or a commit SHA. The second part represents a subdirectory inside the repository that will be used as a build context.
-> 
-> For example, run this command to use a directory called docker in the branch container:
+![image-center](https://techytok.com/assets/images/2019/05/04/4-docker-settings.png)
 
-```
-docker build https://github.com/docker/rootfs.git#container:docker
-```
+It is now time to create the build rule, compile the module as follows:
 
-[https://docs.docker.com/engine/reference/commandline/build/](https://docs.docker.com/engine/reference/commandline/build/)
+-   **Source type**: branch
+-   **Source**: master (or whichever branch contains the Dockerfile)
+-   **Docker Tag**: an explicative name for the build (hello-world for example)
+-   **Dockerfile location**: Dockerfile
+-   **Build Context**: the name of the folder containing your Dockerfile (in my case `/docker-build-from-github`)
+-   **Autobuild**: it is up to you if you want to keep it switched on, I usually don’t
+-   **Build caching**: yes
 
-[Share](https://stackoverflow.com/a/39194765/14867493 "Short permalink to this answer")
+![image-center](https://techytok.com/assets/images/2019/05/04/5-docker-settings-2.png)
 
-[Edit](https://stackoverflow.com/posts/39194765/edit "Revise and improve this post")
+Now press `Save and Build` to trigger the build of your image.
 
-Follow
+Once the building process is completed you should see a green “success” icon: this means that the image has been created and is ready to be downloaded/executed.
 
-[edited Nov 20 '20 at 10:12](https://stackoverflow.com/posts/39194765/revisions "show all edits to this post")
+![image-center](https://techytok.com/assets/images/2019/05/04/6-build-success.png)
 
-answered Aug 28 '16 at 18:59
+Open a terminal (or a power shell) and type:
 
-[
+1`docker run --rm -it YOURNAME/YOURREPO:yourtag` 
 
-![](https://www.gravatar.com/avatar/216ea4da5cae7be4030b6242ab90631c?s=64&d=identicon&r=PG)
+which translates, in my case, to:
 
-](https://stackoverflow.com/users/588759/rofrol)
+1`docker run --rm -it aureamerio/techytok-examples:hello-world` 
 
-[rofrol](https://stackoverflow.com/users/588759/rofrol)
+You should see a welcome message, meaning that the build and execution process was successful.
 
-12.8k77 gold badges7272 silver badges6666 bronze badges
+![image-center](https://techytok.com/assets/images/2019/05/04/7-hello-message.png)
 
-[Add a comment](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository/39194765# "Use comments to ask for more information or suggest improvements. Avoid comments like “+1” or “thanks”.")
+## Conclusions[Permalink](https://techytok.com/docker-build-from-github/#conclusions "Permalink")
 
-Report this ad
+You have learned how to build a Docker image from a Github repository. You may now have multiple folders with different Dockerfiles and have several tags in you repository corresponding to that images.
 
-8
+If you liked this guide and you would like to receive further updates on what is being published on this website, I encourage you to subscribe to the [**newsletter**](https://techytok.com/newsletter/)! If you have any **question** or **suggestion**, please post them in the **discussion below**!
 
-[](https://stackoverflow.com/posts/26753490/timeline)
-
-The thing you specified as repo URL is not a valid git repository. You will get error when you will try
-
-> `git clone github.com/docker-library/redis/tree/99c172e82ed81af441e13dd48dda2729e19493bc/2.8.10`
-
-Valid URL for this repo is `github.com/docker-library/redis`. So you may want to try following:
-
-> `docker build github.com/docker-library/redis`
-
-But this will not work too. To build from github, docker requires `Dockerfile` in repository root, howerer, this repo doesn't provide this one. So, I suggest, you only have to clone this repo and build image using local Dockerfile.
-
-[Share](https://stackoverflow.com/a/26753490/14867493 "Short permalink to this answer")
-
-[Edit](https://stackoverflow.com/posts/26753490/edit "Revise and improve this post")
-
-Follow
-
-answered Nov 5 '14 at 9:24
-
-[
-
-![](https://i.stack.imgur.com/O8rJM.jpg?s=64&g=1)
-
-](https://stackoverflow.com/users/1691583/viacheslav-kovalev)
-
-[Viacheslav Kovalev](https://stackoverflow.com/users/1691583/viacheslav-kovalev)
-
-1,7051111 silver badges1616 bronze badges
-
--   3
-    
-    In fact `docker build https://raw.githubusercontent.com/docker-library/redis/master/2.8.10/Dockerfile` works, but not like the [official example](http://docs.docker.com/v1.1/reference/commandline/cli/#build). Thanks for your answer. 
-    
-    – [seanlook](https://stackoverflow.com/users/4162734/seanlook "837 reputation")
-    
-     [Nov 5 '14 at 12:58](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository/39194765#comment42097230_26753490)
-    
-
-[Add a comment](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository/39194765# "Use comments to ask for more information or suggest improvements. Avoid comments like “+1” or “thanks”.")
-
-4
-
-[](https://stackoverflow.com/posts/48235957/timeline)
-
-One can use the following example which sets up a Centos 7 container for testing ORC file format. Make sure to escape the `#` sign:
-
-`$ docker build https://github.com/apache/orc.git\#:docker/centos7 -t orc-centos7`
-
-[Share](https://stackoverflow.com/a/48235957/14867493 "Short permalink to this answer")
-
-[Edit](https://stackoverflow.com/posts/48235957/edit "Revise and improve this post")
-
-Follow
-
-answered Jan 13 '18 at 0:55
-
-[
-
-![](https://www.gravatar.com/avatar/d32f25ab2112110cebb2ed4b86e87920?s=64&d=identicon&r=PG)
-
-](https://stackoverflow.com/users/238880/pratik-khadloya)
-
-[Pratik Khadloya](https://stackoverflow.com/users/238880/pratik-khadloya)
-
-11.9k1111 gold badges7575 silver badges100100 bronze badges
-
--   1
-    
-    The "-t" flag and name is important in order the image gets a name set. Otherwise you'll end up with <none> images. 
-    
-    – [david](https://stackoverflow.com/users/120296/david "2,362 reputation")
-    
-     [Jan 15 '20 at 16:30](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository/39194765#comment105657501_48235957)
-    
--   I don't know why it fails on my computer. The error says "failed to solve with frontend dockerfile.v0: failed to read dockerfile: failed to load cache key: subdir not supported yet". I'm using Docker-CE-20.10 
-    
-    – [runzhi xiao](https://stackoverflow.com/users/9467045/runzhi-xiao "140 reputation")
-    
-     [Dec 7 '21 at 8:01](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository/39194765#comment124194455_48235957)
+Thank you for reading this guide and see you soon on TechyTok!
