@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "How to build docker image from github repository",
+      "path": "Zettelkasten/How to build docker image from github repository.md"
+    },
+    {
       "basename": "TERRAFORM TRAINING",
       "path": "Zettelkasten/TERRAFORM TRAINING.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "note template",
       "path": "Templates/note template.md"
-    },
-    {
-      "basename": "PRC-104",
-      "path": "Radio Information/PRC-104.md"
     }
   ],
   "omittedPaths": [],

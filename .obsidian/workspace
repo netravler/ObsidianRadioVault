@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/TERRAFORM TRAINING.md",
+            "file": "Zettelkasten/How to build docker image from github repository.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/TERRAFORM TRAINING.md",
+                "file": "Zettelkasten/How to build docker image from github repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/TERRAFORM TRAINING.md",
+                "file": "Zettelkasten/How to build docker image from github repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "cbd3c30f05c071bf",
   "lastOpenFiles": [
+    "Zettelkasten/How to build docker image from github repository.md",
     "Zettelkasten/TERRAFORM TRAINING.md",
     "Zettelkasten/semester spring 2022.md",
     "Zettelkasten/How to install Brew on Ubuntu 20.04 LTS Linux.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/Centralized logging in Kubernetes.md",
     "Zettelkasten/How I Discovered Thousands of Open Databases on AWS.md",
     "Zettelkasten/macOS is Hot Garbage.md",
-    "Zettelkasten/htop install.md",
-    "Zettelkasten/Monitoring Linux Processes using Prometheus and Grafana.md"
+    "Zettelkasten/htop install.md"
   ]
 }
