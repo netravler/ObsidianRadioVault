@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Untitled.md",
+            "file": "Zettelkasten/Ploty - python test.md",
             "mode": "preview",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Ploty - python test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Ploty - python test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "cbd3c30f05c071bf",
   "lastOpenFiles": [
+    "Zettelkasten/Ploty - python test.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/2022-02-07.md",
     "Zettelkasten/How to build docker image from github repository.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/Secrets Management in Kubernetes.md",
     "Zettelkasten/Grafana as code.md",
     "Zettelkasten/semester spring 2022.md",
-    "Zettelkasten/How to install Brew on Ubuntu 20.04 LTS Linux.md",
-    "Zettelkasten/The Definitive Guide To InfluxDB In 2019 — devconnected.md"
+    "Zettelkasten/How to install Brew on Ubuntu 20.04 LTS Linux.md"
   ]
 }
