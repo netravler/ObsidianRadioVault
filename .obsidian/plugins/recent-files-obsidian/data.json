@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Zettelkasten/Untitled.md"
+    },
+    {
       "basename": "2022-02-07",
       "path": "Zettelkasten/2022-02-07.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Welding Projects",
       "path": "Zettelkasten/Welding Projects.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Radio Information/Untitled.md"
     }
   ],
   "omittedPaths": [],
