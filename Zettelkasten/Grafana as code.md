@@ -2,15 +2,7 @@
 
 [Tarantool](https://medium.com/@tarantool?source=post_page-----b642cac9ae75-----------------------------------)
 
-Nov 3, 2021
 
-·
-
-14 min read
-
-·
-
-Listen
 
 # Grafana as code
 
