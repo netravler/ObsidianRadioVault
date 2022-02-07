@@ -2,15 +2,6 @@
 
 [Kubernetes Advocate](https://medium.com/@kubernetes-advocate?source=post_page-----378cbf8171d0-----------------------------------)
 
-Feb 16, 2021
-
-·
-
-7 min read
-
-·
-
-Listen
 
 # Secrets Management in Kubernetes
 
