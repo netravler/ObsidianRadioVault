@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Secrets Management in Kubernetes",
+      "path": "Zettelkasten/Secrets Management in Kubernetes.md"
+    },
+    {
       "basename": "Grafana as code",
       "path": "Zettelkasten/Grafana as code.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Move to Florida - via remote",
       "path": "Move to Florida - via remote.md"
-    },
-    {
-      "basename": "Map of Content",
-      "path": "Templates/Map of Content.md"
     }
   ],
   "omittedPaths": [],
