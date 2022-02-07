@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Grafana as code",
+      "path": "Zettelkasten/Grafana as code.md"
+    },
+    {
       "basename": "How to build docker image from github repository",
       "path": "Zettelkasten/How to build docker image from github repository.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Map of Content",
       "path": "Templates/Map of Content.md"
-    },
-    {
-      "basename": "note template",
-      "path": "Templates/note template.md"
     }
   ],
   "omittedPaths": [],
