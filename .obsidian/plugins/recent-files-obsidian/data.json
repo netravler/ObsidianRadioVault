@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Getting Started with Plotly in Python",
+      "path": "Zettelkasten/Getting Started with Plotly in Python.md"
+    },
+    {
       "basename": "Ploty - python test",
       "path": "Zettelkasten/Ploty - python test.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "rebar welding projects",
       "path": "Zettelkasten/rebar welding projects.md"
-    },
-    {
-      "basename": "Welding Projects",
-      "path": "Zettelkasten/Welding Projects.md"
     }
   ],
   "omittedPaths": [],
