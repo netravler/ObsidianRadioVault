@@ -1,18 +1,5 @@
 # [How to build docker image from github repository](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository)
 
-[Ask Question](https://stackoverflow.com/questions/ask)
-
-Asked 7 years, 3 months ago
-
-Active [1 year, 2 months ago](https://stackoverflow.com/questions/26753030/how-to-build-docker-image-from-github-repository/39194765?lastactivity "2020-11-20 10:12:45Z")
-
-Viewed 79k times
-
-Report this ad
-
-42
-
-13
 
 [](https://stackoverflow.com/posts/26753030/timeline)
 
