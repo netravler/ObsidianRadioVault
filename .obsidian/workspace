@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
