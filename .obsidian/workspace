@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
-            "mode": "preview",
+            "file": "Zettelkasten/Install IIS on Azure VM using Terraform.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
+                "file": "Zettelkasten/Install IIS on Azure VM using Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
+                "file": "Zettelkasten/Install IIS on Azure VM using Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "cbd3c30f05c071bf",
   "lastOpenFiles": [
+    "Zettelkasten/Install IIS on Azure VM using Terraform.md",
     "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
     "Zettelkasten/terraform for beginners.md",
     "Zettelkasten/Getting Started with Plotly in Python.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/2022-02-07.md",
     "Zettelkasten/How to build docker image from github repository.md",
     "Zettelkasten/How to Run WSL2 at Startup on Windows.md",
-    "Zettelkasten/TERRAFORM TRAINING.md",
-    "Zettelkasten/Secrets Management in Kubernetes.md"
+    "Zettelkasten/TERRAFORM TRAINING.md"
   ]
 }

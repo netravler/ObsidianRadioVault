@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Install IIS on Azure VM using Terraform",
+      "path": "Zettelkasten/Install IIS on Azure VM using Terraform.md"
+    },
+    {
       "basename": "Prometheus configuration and deployment in Terraform",
       "path": "Zettelkasten/Prometheus configuration and deployment in Terraform.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ASN numbers",
       "path": "Zettelkasten/ASN numbers.md"
-    },
-    {
-      "basename": "prometheus and grapfana",
-      "path": "Zettelkasten/prometheus and grapfana.md"
     }
   ],
   "omittedPaths": [],
