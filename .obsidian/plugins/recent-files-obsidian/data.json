@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1Build and configuration AKS on Azure using Terraform",
+      "path": "Zettelkasten/Untitled 1Build and configuration AKS on Azure using Terraform.md"
+    },
+    {
       "basename": "Install IIS on Azure VM using Terraform",
       "path": "Zettelkasten/Install IIS on Azure VM using Terraform.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "awk - make delimited list script",
       "path": "Zettelkasten/awk - make delimited list script.md"
-    },
-    {
-      "basename": "ASN numbers",
-      "path": "Zettelkasten/ASN numbers.md"
     }
   ],
   "omittedPaths": [],
