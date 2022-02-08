@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Prometheus configuration and deployment in Terraform",
+      "path": "Zettelkasten/Prometheus configuration and deployment in Terraform.md"
+    },
+    {
       "basename": "terraform for beginners",
       "path": "Zettelkasten/terraform for beginners.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "prometheus and grapfana",
       "path": "Zettelkasten/prometheus and grapfana.md"
-    },
-    {
-      "basename": "splunk stuff",
-      "path": "Zettelkasten/splunk stuff.md"
     }
   ],
   "omittedPaths": [],

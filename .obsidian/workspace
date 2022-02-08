@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/terraform for beginners.md",
-            "mode": "preview",
+            "file": "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/terraform for beginners.md",
+                "file": "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/terraform for beginners.md",
+                "file": "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "cbd3c30f05c071bf",
   "lastOpenFiles": [
+    "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
     "Zettelkasten/terraform for beginners.md",
     "Zettelkasten/Getting Started with Plotly in Python.md",
     "Zettelkasten/Ploty - python test.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/How to build docker image from github repository.md",
     "Zettelkasten/How to Run WSL2 at Startup on Windows.md",
     "Zettelkasten/TERRAFORM TRAINING.md",
-    "Zettelkasten/Secrets Management in Kubernetes.md",
-    "Zettelkasten/Grafana as code.md"
+    "Zettelkasten/Secrets Management in Kubernetes.md"
   ]
 }
