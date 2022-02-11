@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/hacking stuff.md",
+            "file": "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/hacking stuff.md",
+                "file": "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/hacking stuff.md",
+                "file": "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "cbd3c30f05c071bf",
   "lastOpenFiles": [
+    "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md",
     "Zettelkasten/hacking stuff.md",
     "Zettelkasten/octopus license.md",
     "Zettelkasten/Untitled 1Build and configuration AKS on Azure using Terraform.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/terraform for beginners.md",
     "Zettelkasten/Getting Started with Plotly in Python.md",
     "Zettelkasten/Ploty - python test.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/2022-02-07.md"
+    "Zettelkasten/Untitled.md"
   ]
 }

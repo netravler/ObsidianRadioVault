@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Getting started with Terraform and Kubernetes on Azure AKS",
+      "path": "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md"
+    },
+    {
       "basename": "hacking stuff",
       "path": "Zettelkasten/hacking stuff.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ngginex instance in aks azure",
       "path": "Zettelkasten/ngginex instance in aks azure.md"
-    },
-    {
-      "basename": "splunk",
-      "path": "Zettelkasten/splunk.md"
     }
   ],
   "omittedPaths": [],
