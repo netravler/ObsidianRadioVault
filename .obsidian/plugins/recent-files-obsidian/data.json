@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "hacking stuff",
+      "path": "Zettelkasten/hacking stuff.md"
+    },
+    {
       "basename": "octopus license",
       "path": "Zettelkasten/octopus license.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "splunk",
       "path": "Zettelkasten/splunk.md"
-    },
-    {
-      "basename": "whois script",
-      "path": "Zettelkasten/whois script.md"
     }
   ],
   "omittedPaths": [],
