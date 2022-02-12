@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Terraforming Azure SQL Database",
+      "path": "Zettelkasten/Terraforming Azure SQL Database.md"
+    },
+    {
       "basename": "Getting started with Terraform and Kubernetes on Azure AKS",
       "path": "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "prometheus",
       "path": "prometheus.md"
-    },
-    {
-      "basename": "ngginex instance in aks azure",
-      "path": "Zettelkasten/ngginex instance in aks azure.md"
     }
   ],
   "omittedPaths": [],
