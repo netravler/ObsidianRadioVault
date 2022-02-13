@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "web locations",
+      "path": "Zettelkasten/web locations.md"
+    },
+    {
       "basename": "Hiren’s BootCD PE",
       "path": "Zettelkasten/Hiren’s BootCD PE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "splunk stuff ip based",
       "path": "Zettelkasten/splunk stuff ip based.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

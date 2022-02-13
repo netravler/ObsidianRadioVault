@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Hiren’s BootCD PE.md",
-            "mode": "preview",
+            "file": "Zettelkasten/web locations.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Hiren’s BootCD PE.md",
+                "file": "Zettelkasten/web locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Hiren’s BootCD PE.md",
+                "file": "Zettelkasten/web locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "cbd3c30f05c071bf",
   "lastOpenFiles": [
+    "Zettelkasten/web locations.md",
     "Zettelkasten/Hiren’s BootCD PE.md",
     "Zettelkasten/Terraforming Azure SQL Database.md",
     "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/Untitled 1Build and configuration AKS on Azure using Terraform.md",
     "Zettelkasten/Install IIS on Azure VM using Terraform.md",
     "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
-    "Zettelkasten/terraform for beginners.md",
-    "Zettelkasten/Getting Started with Plotly in Python.md"
+    "Zettelkasten/terraform for beginners.md"
   ]
 }
