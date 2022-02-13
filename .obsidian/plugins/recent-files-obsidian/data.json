@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hiren’s BootCD PE",
+      "path": "Zettelkasten/Hiren’s BootCD PE.md"
+    },
+    {
       "basename": "Terraforming Azure SQL Database",
       "path": "Zettelkasten/Terraforming Azure SQL Database.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "prometheus",
-      "path": "prometheus.md"
     }
   ],
   "omittedPaths": [],
