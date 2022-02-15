@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/web locations.md",
+            "file": "Zettelkasten/Untitled 1.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/web locations.md",
+                "file": "Zettelkasten/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/web locations.md",
+                "file": "Zettelkasten/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "cbd3c30f05c071bf",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
     "Zettelkasten/web locations.md",
     "Zettelkasten/Hiren’s BootCD PE.md",
     "Zettelkasten/Terraforming Azure SQL Database.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/octopus license.md",
     "Zettelkasten/Untitled 1Build and configuration AKS on Azure using Terraform.md",
     "Zettelkasten/Install IIS on Azure VM using Terraform.md",
-    "Zettelkasten/Prometheus configuration and deployment in Terraform.md",
-    "Zettelkasten/terraform for beginners.md"
+    "Zettelkasten/Prometheus configuration and deployment in Terraform.md"
   ]
 }
