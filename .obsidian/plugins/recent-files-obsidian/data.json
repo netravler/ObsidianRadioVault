@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "Zettelkasten/Untitled 1.md"
+    },
+    {
       "basename": "The Ultimate User Guide To The SkyWatcher Star Adventurer PRO",
       "path": "Zettelkasten/The Ultimate User Guide To The SkyWatcher Star Adventurer PRO.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Miller welding projects",
       "path": "Zettelkasten/Miller welding projects.md"
-    },
-    {
-      "basename": "Run python via jupyter pluggin",
-      "path": "Zettelkasten/Run python via jupyter pluggin.md"
     }
   ],
   "omittedPaths": [],
