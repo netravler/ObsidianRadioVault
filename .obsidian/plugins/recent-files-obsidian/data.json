@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 2",
+      "path": "Zettelkasten/Untitled 2.md"
+    },
+    {
       "basename": "Sky-Watcher Star Adventurer Pro Review",
       "path": "Zettelkasten/Sky-Watcher Star Adventurer Pro Review.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "nginx metrics",
       "path": "Zettelkasten/nginx metrics.md"
-    },
-    {
-      "basename": "python version discovery",
-      "path": "Zettelkasten/python version discovery.md"
     }
   ],
   "omittedPaths": [],

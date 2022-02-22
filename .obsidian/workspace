@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Sky-Watcher Star Adventurer Pro Review.md",
+            "file": "Zettelkasten/Untitled 2.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Sky-Watcher Star Adventurer Pro Review.md",
+                "file": "Zettelkasten/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Sky-Watcher Star Adventurer Pro Review.md",
+                "file": "Zettelkasten/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "cbd3c30f05c071bf",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 2.md",
     "Zettelkasten/Sky-Watcher Star Adventurer Pro Review.md",
     "Zettelkasten/Untitled 1.md",
     "Zettelkasten/The Ultimate User Guide To The SkyWatcher Star Adventurer PRO.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/Terraforming Azure SQL Database.md",
     "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md",
     "Zettelkasten/hacking stuff.md",
-    "Zettelkasten/octopus license.md",
-    "Zettelkasten/Untitled 1Build and configuration AKS on Azure using Terraform.md"
+    "Zettelkasten/octopus license.md"
   ]
 }
