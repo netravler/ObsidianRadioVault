@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "prometheus full install linux",
+      "path": "Zettelkasten/prometheus full install linux.md"
+    },
+    {
       "basename": "MacBook pro shuts down randomly",
       "path": "Zettelkasten/MacBook pro shuts down randomly.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "How to Install Prometheus on Ubuntu 20.04",
       "path": "Zettelkasten/How to Install Prometheus on Ubuntu 20.04.md"
-    },
-    {
-      "basename": "prometheus full install linux",
-      "path": "Zettelkasten/prometheus full install linux.md"
     },
     {
       "basename": "Kubernetes Prometheus Monitoring with Helm",
