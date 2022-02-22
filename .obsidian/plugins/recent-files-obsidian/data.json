@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Zettelkasten/Untitled.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "Zettelkasten/Untitled 3.md"
+    },
+    {
       "basename": "Untitled 2",
       "path": "Zettelkasten/Untitled 2.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Ploty - python test",
       "path": "Zettelkasten/Ploty - python test.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Zettelkasten/Untitled.md"
     },
     {
       "basename": "2022-02-07",
@@ -195,10 +199,6 @@
     {
       "basename": "windows_exporter",
       "path": "Zettelkasten/windows_exporter.md"
-    },
-    {
-      "basename": "nginx metrics",
-      "path": "Zettelkasten/nginx metrics.md"
     }
   ],
   "omittedPaths": [],
