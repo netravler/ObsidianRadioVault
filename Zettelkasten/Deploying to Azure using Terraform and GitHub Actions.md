@@ -229,3 +229,7 @@ Principal DevOps Architect at Blend Master Software
 ---
 
 [Backup your Azure DevOps variable groups to a Git repo](https://www.blendmastersoftware.com/blog/azure-devops-variable-groups-backup)
+
+
+
+#AN
