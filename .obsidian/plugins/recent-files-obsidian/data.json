@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Deploying to Azure using Terraform and GitHub Actions",
+      "path": "Zettelkasten/Deploying to Azure using Terraform and GitHub Actions.md"
+    },
+    {
       "basename": "Install Portainer with Docker on Windows Container Service",
       "path": "Zettelkasten/Install Portainer with Docker on Windows Container Service.md"
     },
