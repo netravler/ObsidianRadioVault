@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "script to setup github actions for azure",
+      "path": "Zettelkasten/script to setup github actions for azure.md"
+    },
+    {
       "basename": "Deploying to Azure using Terraform and GitHub Actions",
       "path": "Zettelkasten/Deploying to Azure using Terraform and GitHub Actions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "setup prometheus grafana jenkins nginx",
       "path": "Zettelkasten/setup prometheus grafana jenkins nginx.md"
-    },
-    {
-      "basename": "windows_exporter",
-      "path": "Zettelkasten/windows_exporter.md"
     }
   ],
   "omittedPaths": [],
