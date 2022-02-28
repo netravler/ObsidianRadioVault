@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "get iRules out of an F5",
+      "path": "Zettelkasten/get iRules out of an F5.md"
+    },
+    {
       "basename": "script to setup github actions for azure",
       "path": "Zettelkasten/script to setup github actions for azure.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "NSSM",
       "path": "Zettelkasten/NSSM.md"
-    },
-    {
-      "basename": "setup prometheus grafana jenkins nginx",
-      "path": "Zettelkasten/setup prometheus grafana jenkins nginx.md"
     }
   ],
   "omittedPaths": [],
