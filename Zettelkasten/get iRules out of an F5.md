@@ -1,1 +1,1 @@
-tmsh list ltm rule al
+tmsh list ltm rule all > /shared/tmp/<filename>
