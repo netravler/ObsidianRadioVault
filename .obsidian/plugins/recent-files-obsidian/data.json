@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "swedish subs",
+      "path": "Zettelkasten/swedish subs.md"
+    },
+    {
       "basename": "get iRules out of an F5",
       "path": "Zettelkasten/get iRules out of an F5.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "setup redis on centos 7",
       "path": "Zettelkasten/setup redis on centos 7.md"
-    },
-    {
-      "basename": "NSSM",
-      "path": "Zettelkasten/NSSM.md"
     }
   ],
   "omittedPaths": [],
