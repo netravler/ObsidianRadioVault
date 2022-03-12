@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "hallo stacked loop antenna for weak signals",
+      "path": "Zettelkasten/hallo stacked loop antenna for weak signals.md"
+    },
+    {
       "basename": "swedish subs",
       "path": "Zettelkasten/swedish subs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Redis",
       "path": "Zettelkasten/Redis.md"
-    },
-    {
-      "basename": "setup redis on centos 7",
-      "path": "Zettelkasten/setup redis on centos 7.md"
     }
   ],
   "omittedPaths": [],
