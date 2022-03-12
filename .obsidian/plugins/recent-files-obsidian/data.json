@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Quad or loop antenna",
+      "path": "Zettelkasten/Quad or loop antenna.md"
+    },
+    {
       "basename": "hallo stacked loop antenna for weak signals",
       "path": "Zettelkasten/hallo stacked loop antenna for weak signals.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "led",
       "path": "Zettelkasten/led.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "Zettelkasten/Redis.md"
     }
   ],
   "omittedPaths": [],

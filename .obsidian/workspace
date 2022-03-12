@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/hallo stacked loop antenna for weak signals.md",
+            "file": "Zettelkasten/Quad or loop antenna.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/hallo stacked loop antenna for weak signals.md",
+                "file": "Zettelkasten/Quad or loop antenna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/hallo stacked loop antenna for weak signals.md",
+                "file": "Zettelkasten/Quad or loop antenna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "04e99e44b205c4c4",
   "lastOpenFiles": [
+    "Zettelkasten/Quad or loop antenna.md",
     "Zettelkasten/hallo stacked loop antenna for weak signals.md",
     "Zettelkasten/swedish subs.md",
     "Zettelkasten/get iRules out of an F5.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/Install Portainer with Docker on Windows Container Service.md",
     "Zettelkasten/prometheus full install linux.md",
     "Zettelkasten/MacBook pro shuts down randomly.md",
-    "Zettelkasten/Untitled 3.md",
-    "Zettelkasten/Untitled 2.md"
+    "Zettelkasten/Untitled 3.md"
   ]
 }
