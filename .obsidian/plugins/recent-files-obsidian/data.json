@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Writing an Arduino GOTO telescope mount controller",
+      "path": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md"
+    },
+    {
       "basename": "connect mac to pc windows 10",
       "path": "Zettelkasten/connect mac to pc windows 10.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PowerBI",
       "path": "PowerBI.md"
-    },
-    {
-      "basename": "API",
-      "path": "API.md"
     }
   ],
   "omittedPaths": [],

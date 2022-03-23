@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/connect mac to pc windows 10.md",
+            "file": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/connect mac to pc windows 10.md",
+                "file": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/connect mac to pc windows 10.md",
+                "file": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "04e99e44b205c4c4",
   "lastOpenFiles": [
+    "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
     "Zettelkasten/connect mac to pc windows 10.md",
     "Zettelkasten/Quad or loop antenna.md",
     "Zettelkasten/hallo stacked loop antenna for weak signals.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/script to setup github actions for azure.md",
     "Zettelkasten/Deploying to Azure using Terraform and GitHub Actions.md",
     "Zettelkasten/Install Portainer with Docker on Windows Container Service.md",
-    "Zettelkasten/prometheus full install linux.md",
-    "Zettelkasten/MacBook pro shuts down randomly.md"
+    "Zettelkasten/prometheus full install linux.md"
   ]
 }
