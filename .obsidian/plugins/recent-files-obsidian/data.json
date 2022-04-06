@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction",
+      "path": "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md"
+    },
+    {
       "basename": "Writing an Arduino GOTO telescope mount controller",
       "path": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "gns3",
       "path": "Zettelkasten/gns3.md"
-    },
-    {
-      "basename": "PowerBI",
-      "path": "PowerBI.md"
     }
   ],
   "omittedPaths": [],
