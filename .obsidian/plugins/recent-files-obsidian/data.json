@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Build Web Servers with ESP32 and ESP8266 eBook (2nd Edition)",
+      "path": "Zettelkasten/Build Web Servers with ESP32 and ESP8266 eBook (2nd Edition).md"
+    },
+    {
       "basename": "ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction",
       "path": "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Kubernetes Prometheus Monitoring with Helm",
       "path": "Zettelkasten/Kubernetes Prometheus Monitoring with Helm.md"
-    },
-    {
-      "basename": "gns3",
-      "path": "Zettelkasten/gns3.md"
     }
   ],
   "omittedPaths": [],

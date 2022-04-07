@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md",
+            "file": "Zettelkasten/Build Web Servers with ESP32 and ESP8266 eBook (2nd Edition).md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md",
+                "file": "Zettelkasten/Build Web Servers with ESP32 and ESP8266 eBook (2nd Edition).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md",
+                "file": "Zettelkasten/Build Web Servers with ESP32 and ESP8266 eBook (2nd Edition).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "04e99e44b205c4c4",
   "lastOpenFiles": [
+    "Zettelkasten/Build Web Servers with ESP32 and ESP8266 eBook (2nd Edition).md",
     "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md",
     "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
     "Zettelkasten/connect mac to pc windows 10.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/swedish subs.md",
     "Zettelkasten/get iRules out of an F5.md",
     "Zettelkasten/script to setup github actions for azure.md",
-    "Zettelkasten/Deploying to Azure using Terraform and GitHub Actions.md",
-    "Zettelkasten/Install Portainer with Docker on Windows Container Service.md"
+    "Zettelkasten/Deploying to Azure using Terraform and GitHub Actions.md"
   ]
 }
