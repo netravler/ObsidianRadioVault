@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "go intro",
+      "path": "Zettelkasten/go intro.md"
+    },
+    {
       "basename": "ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction",
       "path": "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to Install Prometheus on Ubuntu 20.04",
       "path": "Zettelkasten/How to Install Prometheus on Ubuntu 20.04.md"
-    },
-    {
-      "basename": "Kubernetes Prometheus Monitoring with Helm",
-      "path": "Zettelkasten/Kubernetes Prometheus Monitoring with Helm.md"
     }
   ],
   "omittedPaths": [],
