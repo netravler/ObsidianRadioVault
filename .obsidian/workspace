@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/go intro.md",
+            "file": "Zettelkasten/BMW GS 1200 S.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/go intro.md",
+                "file": "Zettelkasten/BMW GS 1200 S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/go intro.md",
+                "file": "Zettelkasten/BMW GS 1200 S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "04e99e44b205c4c4",
   "lastOpenFiles": [
+    "Zettelkasten/BMW GS 1200 S.md",
     "Zettelkasten/go intro.md",
     "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md",
     "Zettelkasten/Build Web Servers with ESP32 and ESP8266 eBook (2nd Edition).md",
@@ -163,7 +164,6 @@
     "Zettelkasten/Quad or loop antenna.md",
     "Zettelkasten/hallo stacked loop antenna for weak signals.md",
     "Zettelkasten/swedish subs.md",
-    "Zettelkasten/get iRules out of an F5.md",
-    "Zettelkasten/script to setup github actions for azure.md"
+    "Zettelkasten/get iRules out of an F5.md"
   ]
 }

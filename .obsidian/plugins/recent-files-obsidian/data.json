@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BMW GS 1200 S",
+      "path": "Zettelkasten/BMW GS 1200 S.md"
+    },
+    {
       "basename": "go intro",
       "path": "Zettelkasten/go intro.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to Install Prometheus on centor 7",
       "path": "Zettelkasten/How to Install Prometheus on centor 7.md"
-    },
-    {
-      "basename": "How to Install Prometheus on Ubuntu 20.04",
-      "path": "Zettelkasten/How to Install Prometheus on Ubuntu 20.04.md"
     }
   ],
   "omittedPaths": [],
