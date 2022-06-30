@@ -1,3 +1,6 @@
+https://stackoverflow.com/questions/7139338/change-jenkins-port-on-macos
+
+
 Before modify the Jenkins port on macOS,you must pay attention to **the way of installation of Jenkins**.
 
 Here I recommend you install Jenkins by 'Homebrew' if you want to deal with iOS project building,because you may meet some errors that the way of using `.pkg` to install,it's really hard to solve the problems.
