@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "change jenkins port",
+      "path": "Zettelkasten/change jenkins port.md"
+    },
+    {
       "basename": "keyboard short cuts",
       "path": "Zettelkasten/keyboard short cuts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "linux node_exporter",
       "path": "Zettelkasten/linux node_exporter.md"
-    },
-    {
-      "basename": "OctopusNexus",
-      "path": "Zettelkasten/OctopusNexus.md"
     }
   ],
   "omittedPaths": [],
