@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/change jenkins port.md",
-            "mode": "source",
+            "file": "Zettelkasten/connect mac to pc windows 10.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/change jenkins port.md",
+                "file": "Zettelkasten/connect mac to pc windows 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/change jenkins port.md",
+                "file": "Zettelkasten/connect mac to pc windows 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "04e99e44b205c4c4",
   "lastOpenFiles": [
+    "Zettelkasten/connect mac to pc windows 10.md",
     "Zettelkasten/change jenkins port.md",
     "Zettelkasten/keyboard short cuts.md",
     "Zettelkasten/BMW GS 1200 S.md",
@@ -162,7 +163,6 @@
     "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md",
     "Zettelkasten/Build Web Servers with ESP32 and ESP8266 eBook (2nd Edition).md",
     "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
-    "Zettelkasten/connect mac to pc windows 10.md",
     "Zettelkasten/Quad or loop antenna.md",
     "Zettelkasten/hallo stacked loop antenna for weak signals.md"
   ]
