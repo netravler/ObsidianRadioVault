@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "questions to ask",
+      "path": "Zettelkasten/questions to ask.md"
+    },
+    {
       "basename": "octopus license",
       "path": "Zettelkasten/octopus license.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "grafana cloud windows integration",
       "path": "Zettelkasten/grafana cloud windows integration.md"
-    },
-    {
-      "basename": "linux node_exporter",
-      "path": "Zettelkasten/linux node_exporter.md"
     }
   ],
   "omittedPaths": [],
