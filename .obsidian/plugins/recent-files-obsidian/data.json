@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "telescope contacts",
+      "path": "Zettelkasten/telescope contacts.md"
+    },
+    {
       "basename": "questions to ask",
       "path": "Zettelkasten/questions to ask.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Creating and publishing PowerShell Modules to Azure Artifacts with Azure DevOps YAML Pipelines",
       "path": "Zettelkasten/Creating and publishing PowerShell Modules to Azure Artifacts with Azure DevOps YAML Pipelines.md"
-    },
-    {
-      "basename": "grafana cloud windows integration",
-      "path": "Zettelkasten/grafana cloud windows integration.md"
     }
   ],
   "omittedPaths": [],
