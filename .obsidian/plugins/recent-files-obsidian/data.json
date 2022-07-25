@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1989 Corvette pre-purchase",
+      "path": "Zettelkasten/1989 Corvette pre-purchase.md"
+    },
+    {
       "basename": "telescope contacts",
       "path": "Zettelkasten/telescope contacts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Monitoring Linux Processes using Prometheus and Grafana",
       "path": "Zettelkasten/Monitoring Linux Processes using Prometheus and Grafana.md"
-    },
-    {
-      "basename": "Creating and publishing PowerShell Modules to Azure Artifacts with Azure DevOps YAML Pipelines",
-      "path": "Zettelkasten/Creating and publishing PowerShell Modules to Azure Artifacts with Azure DevOps YAML Pipelines.md"
     }
   ],
   "omittedPaths": [],
