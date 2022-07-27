@@ -1,5 +1,8 @@
 ![](https://www.corvettebuyers.com/c4vettes/return2indepth.gif)
 
+
+https://www.corvettebuyers.com/c4vettes/prepurchase.htm
+
 **Pre-Purchase Inspection**
 
 **Since** **C4** **production stopped in 1996, any purchase made will be of a used automobile whose condition should always be assumed to be suspect.**
