@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "gh command line stuff",
+      "path": "Zettelkasten/gh command line stuff.md"
+    },
+    {
       "basename": "1989 Corvette pre-purchase",
       "path": "Zettelkasten/1989 Corvette pre-purchase.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "htop install",
       "path": "Zettelkasten/htop install.md"
-    },
-    {
-      "basename": "Monitoring Linux Processes using Prometheus and Grafana",
-      "path": "Zettelkasten/Monitoring Linux Processes using Prometheus and Grafana.md"
     }
   ],
   "omittedPaths": [],
