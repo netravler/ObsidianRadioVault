@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "wget a website folder",
+      "path": "Zettelkasten/wget a website folder.md"
+    },
+    {
       "basename": "gh command line stuff",
       "path": "Zettelkasten/gh command line stuff.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "macOS is Hot Garbage",
       "path": "Zettelkasten/macOS is Hot Garbage.md"
-    },
-    {
-      "basename": "htop install",
-      "path": "Zettelkasten/htop install.md"
     }
   ],
   "omittedPaths": [],

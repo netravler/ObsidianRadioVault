@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/gh command line stuff.md",
-            "mode": "preview",
+            "file": "Zettelkasten/wget a website folder.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/gh command line stuff.md",
+                "file": "Zettelkasten/wget a website folder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/gh command line stuff.md",
+                "file": "Zettelkasten/wget a website folder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "04e99e44b205c4c4",
   "lastOpenFiles": [
+    "Zettelkasten/gh command line stuff.md",
     "Zettelkasten/1989 Corvette pre-purchase.md",
     "Zettelkasten/telescope contacts.md",
     "Zettelkasten/questions to ask.md",
@@ -163,7 +164,6 @@
     "Zettelkasten/change jenkins port.md",
     "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md",
     "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
-    "Zettelkasten/connect mac to pc windows 10.md",
-    "Zettelkasten/keyboard short cuts.md"
+    "Zettelkasten/connect mac to pc windows 10.md"
   ]
 }
