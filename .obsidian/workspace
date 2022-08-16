@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Zettelkasten/JHA SUBS.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335
+    "width": 335,
+    "collapsed": true
   },
   "active": "886edf63b4891133",
   "lastOpenFiles": [
