@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
+            "file": "Zettelkasten/2022-02-07.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
+                "file": "Zettelkasten/2022-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
+                "file": "Zettelkasten/2022-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +154,9 @@
     "direction": "horizontal",
     "width": 335
   },
-  "active": "04e99e44b205c4c4",
+  "active": "ec3e51b1d08be12d",
   "lastOpenFiles": [
+    "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
     "Field gear.md",
     "API.md",
     "Zettelkasten/2022-08-16.md",
@@ -164,7 +165,6 @@
     "Zettelkasten/1989 Corvette pre-purchase.md",
     "Zettelkasten/telescope contacts.md",
     "Zettelkasten/questions to ask.md",
-    "Zettelkasten/octopus license.md",
-    "Zettelkasten/hacking stuff.md"
+    "Zettelkasten/octopus license.md"
   ]
 }

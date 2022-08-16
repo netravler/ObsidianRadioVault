@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-02-07",
+      "path": "Zettelkasten/2022-02-07.md"
+    },
+    {
       "basename": "Writing an Arduino GOTO telescope mount controller",
       "path": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "Ploty - python test",
       "path": "Zettelkasten/Ploty - python test.md"
-    },
-    {
-      "basename": "2022-02-07",
-      "path": "Zettelkasten/2022-02-07.md"
     },
     {
       "basename": "How to build docker image from github repository",
