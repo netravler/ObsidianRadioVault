@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Writing an Arduino GOTO telescope mount controller",
+      "path": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md"
+    },
+    {
+      "basename": "Field gear",
+      "path": "Field gear.md"
+    },
+    {
+      "basename": "API",
+      "path": "API.md"
+    },
+    {
       "basename": "wget a website folder",
       "path": "Zettelkasten/wget a website folder.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction",
       "path": "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md"
-    },
-    {
-      "basename": "Writing an Arduino GOTO telescope mount controller",
-      "path": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md"
     },
     {
       "basename": "connect mac to pc windows 10",
@@ -191,14 +199,6 @@
     {
       "basename": "Centralized logging in Kubernetes",
       "path": "Zettelkasten/Centralized logging in Kubernetes.md"
-    },
-    {
-      "basename": "How I Discovered Thousands of Open Databases on AWS",
-      "path": "Zettelkasten/How I Discovered Thousands of Open Databases on AWS.md"
-    },
-    {
-      "basename": "macOS is Hot Garbage",
-      "path": "Zettelkasten/macOS is Hot Garbage.md"
     }
   ],
   "omittedPaths": [],
