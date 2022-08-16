@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Files/Untitled.md"
+    },
+    {
+      "basename": "2022-08-16",
+      "path": "Zettelkasten/2022-08-16.md"
+    },
+    {
+      "basename": "1989 Corvette pre-purchase",
+      "path": "Zettelkasten/1989 Corvette pre-purchase.md"
+    },
+    {
+      "basename": "Drawing 2022-01-07 08.07.01.excalidraw",
+      "path": "Excalidraw/Drawing 2022-01-07 08.07.01.excalidraw.md"
+    },
+    {
       "basename": "wget a website folder",
       "path": "Zettelkasten/wget a website folder.md"
     },
     {
       "basename": "gh command line stuff",
       "path": "Zettelkasten/gh command line stuff.md"
-    },
-    {
-      "basename": "1989 Corvette pre-purchase",
-      "path": "Zettelkasten/1989 Corvette pre-purchase.md"
     },
     {
       "basename": "telescope contacts",
@@ -187,18 +199,6 @@
     {
       "basename": "Beautify Your GitHub Profile like a Pro",
       "path": "Zettelkasten/Beautify Your GitHub Profile like a Pro.md"
-    },
-    {
-      "basename": "Centralized logging in Kubernetes",
-      "path": "Zettelkasten/Centralized logging in Kubernetes.md"
-    },
-    {
-      "basename": "How I Discovered Thousands of Open Databases on AWS",
-      "path": "Zettelkasten/How I Discovered Thousands of Open Databases on AWS.md"
-    },
-    {
-      "basename": "macOS is Hot Garbage",
-      "path": "Zettelkasten/macOS is Hot Garbage.md"
     }
   ],
   "omittedPaths": [],

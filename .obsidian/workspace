@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "04e99e44b205c4c4",
+        "id": "886edf63b4891133",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/wget a website folder.md",
+            "file": "Files/Untitled.md",
             "mode": "source",
+            "backlinks": true,
             "source": true
           }
         }
@@ -91,8 +92,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/wget a website folder.md",
-                "collapseAll": false,
+                "file": "Files/Untitled.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/wget a website folder.md",
+                "file": "Files/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +154,17 @@
     "direction": "horizontal",
     "width": 335
   },
-  "active": "04e99e44b205c4c4",
+  "active": "886edf63b4891133",
   "lastOpenFiles": [
-    "Zettelkasten/gh command line stuff.md",
+    "Zettelkasten/2022-08-16.md",
+    "Zettelkasten/UntitlLLLLLLLed.md",
     "Zettelkasten/1989 Corvette pre-purchase.md",
+    "Zettelkasten/JHA SUBS.md",
+    "Zettelkasten/JACK HENRY SUBS.md",
+    "Excalidraw/Drawing 2022-01-07 08.07.01.excalidraw.md",
+    "Zettelkasten/wget a website folder.md",
+    "Zettelkasten/gh command line stuff.md",
     "Zettelkasten/telescope contacts.md",
-    "Zettelkasten/questions to ask.md",
-    "Zettelkasten/octopus license.md",
-    "Zettelkasten/hacking stuff.md",
-    "Zettelkasten/change jenkins port.md",
-    "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md",
-    "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
-    "Zettelkasten/connect mac to pc windows 10.md"
+    "Zettelkasten/questions to ask.md"
   ]
 }
