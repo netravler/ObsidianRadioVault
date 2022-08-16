@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/2022-02-07.md",
-            "mode": "preview",
+            "file": "Zettelkasten/mac setup.md",
+            "mode": "source",
             "backlinks": true,
             "source": true
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/2022-02-07.md",
+                "file": "Zettelkasten/mac setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/2022-02-07.md",
+                "file": "Zettelkasten/mac setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,17 +154,17 @@
     "direction": "horizontal",
     "width": 335
   },
-  "active": "ec3e51b1d08be12d",
+  "active": "04e99e44b205c4c4",
   "lastOpenFiles": [
-    "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
-    "Field gear.md",
-    "API.md",
+    "Zettelkasten/2022-02-07.md",
+    "Zettelkasten/ASN numbers.md",
     "Zettelkasten/2022-08-16.md",
+    "Field gear.md",
+    "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md",
+    "API.md",
     "Zettelkasten/wget a website folder.md",
     "Zettelkasten/gh command line stuff.md",
     "Zettelkasten/1989 Corvette pre-purchase.md",
-    "Zettelkasten/telescope contacts.md",
-    "Zettelkasten/questions to ask.md",
-    "Zettelkasten/octopus license.md"
+    "Zettelkasten/telescope contacts.md"
   ]
 }

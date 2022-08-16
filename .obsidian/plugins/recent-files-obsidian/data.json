@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "mac setup",
+      "path": "Zettelkasten/mac setup.md"
+    },
+    {
       "basename": "2022-02-07",
       "path": "Zettelkasten/2022-02-07.md"
     },
     {
-      "basename": "Writing an Arduino GOTO telescope mount controller",
-      "path": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md"
+      "basename": "ASN numbers",
+      "path": "Zettelkasten/ASN numbers.md"
+    },
+    {
+      "basename": "2022-08-16",
+      "path": "Zettelkasten/2022-08-16.md"
     },
     {
       "basename": "Field gear",
       "path": "Field gear.md"
+    },
+    {
+      "basename": "Writing an Arduino GOTO telescope mount controller",
+      "path": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md"
     },
     {
       "basename": "API",
@@ -187,18 +199,6 @@
     {
       "basename": "How to install Brew on Ubuntu 20.04 LTS Linux",
       "path": "Zettelkasten/How to install Brew on Ubuntu 20.04 LTS Linux.md"
-    },
-    {
-      "basename": "The Definitive Guide To InfluxDB In 2019 — devconnected",
-      "path": "Zettelkasten/The Definitive Guide To InfluxDB In 2019 — devconnected.md"
-    },
-    {
-      "basename": "Beautify Your GitHub Profile like a Pro",
-      "path": "Zettelkasten/Beautify Your GitHub Profile like a Pro.md"
-    },
-    {
-      "basename": "Centralized logging in Kubernetes",
-      "path": "Zettelkasten/Centralized logging in Kubernetes.md"
     }
   ],
   "omittedPaths": [],
