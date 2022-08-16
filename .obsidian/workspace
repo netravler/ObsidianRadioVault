@@ -9,10 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Untitled.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
+            "file": "Zettelkasten/JHA SUBS.md",
+            "mode": "preview",
+            "backlinks": true
           }
         }
       }
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Untitled.md",
+                "file": "Zettelkasten/JHA SUBS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Untitled.md",
+                "file": "Zettelkasten/JHA SUBS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

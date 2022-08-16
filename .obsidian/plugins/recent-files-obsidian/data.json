@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Files/Untitled.md"
+      "basename": "JHA SUBS",
+      "path": "Zettelkasten/JHA SUBS.md"
     },
     {
       "basename": "2022-08-16",
       "path": "Zettelkasten/2022-08-16.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Files/Untitled.md"
     },
     {
       "basename": "1989 Corvette pre-purchase",
@@ -195,10 +199,6 @@
     {
       "basename": "The Definitive Guide To InfluxDB In 2019 — devconnected",
       "path": "Zettelkasten/The Definitive Guide To InfluxDB In 2019 — devconnected.md"
-    },
-    {
-      "basename": "Beautify Your GitHub Profile like a Pro",
-      "path": "Zettelkasten/Beautify Your GitHub Profile like a Pro.md"
     }
   ],
   "omittedPaths": [],
