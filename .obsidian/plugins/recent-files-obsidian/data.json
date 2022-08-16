@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JHA BASE EDGAR FILE LOCATOIN SEC",
+      "path": "Zettelkasten/JHA BASE EDGAR FILE LOCATOIN SEC.md"
+    },
+    {
       "basename": "JHA SUBS",
       "path": "Zettelkasten/JHA SUBS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to install Brew on Ubuntu 20.04 LTS Linux",
       "path": "Zettelkasten/How to install Brew on Ubuntu 20.04 LTS Linux.md"
-    },
-    {
-      "basename": "The Definitive Guide To InfluxDB In 2019 — devconnected",
-      "path": "Zettelkasten/The Definitive Guide To InfluxDB In 2019 — devconnected.md"
     }
   ],
   "omittedPaths": [],

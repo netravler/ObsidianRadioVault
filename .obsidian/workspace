@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/JHA SUBS.md",
-            "mode": "source",
+            "file": "Zettelkasten/JHA BASE EDGAR FILE LOCATOIN SEC.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/JHA SUBS.md",
+                "file": "Zettelkasten/JHA BASE EDGAR FILE LOCATOIN SEC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/JHA SUBS.md",
+                "file": "Zettelkasten/JHA BASE EDGAR FILE LOCATOIN SEC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +155,10 @@
   },
   "active": "886edf63b4891133",
   "lastOpenFiles": [
+    "Zettelkasten/JHA SUBS.md",
     "Zettelkasten/2022-08-16.md",
     "Zettelkasten/UntitlLLLLLLLed.md",
     "Zettelkasten/1989 Corvette pre-purchase.md",
-    "Zettelkasten/JHA SUBS.md",
     "Zettelkasten/JACK HENRY SUBS.md",
     "Excalidraw/Drawing 2022-01-07 08.07.01.excalidraw.md",
     "Zettelkasten/wget a website folder.md",
