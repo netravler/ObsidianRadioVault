@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "TERRAFORM TRAINING",
+      "path": "Zettelkasten/TERRAFORM TRAINING.md"
+    },
+    {
+      "basename": "Prometheus configuration and deployment in Terraform",
+      "path": "Zettelkasten/Prometheus configuration and deployment in Terraform.md"
+    },
+    {
       "basename": "JHA BASE EDGAR FILE LOCATOIN SEC",
       "path": "Zettelkasten/JHA BASE EDGAR FILE LOCATOIN SEC.md"
     },
@@ -153,10 +161,6 @@
       "path": "Zettelkasten/Install IIS on Azure VM using Terraform.md"
     },
     {
-      "basename": "Prometheus configuration and deployment in Terraform",
-      "path": "Zettelkasten/Prometheus configuration and deployment in Terraform.md"
-    },
-    {
       "basename": "terraform for beginners",
       "path": "Zettelkasten/terraform for beginners.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "How to Run WSL2 at Startup on Windows",
       "path": "Zettelkasten/How to Run WSL2 at Startup on Windows.md"
-    },
-    {
-      "basename": "TERRAFORM TRAINING",
-      "path": "Zettelkasten/TERRAFORM TRAINING.md"
     },
     {
       "basename": "Secrets Management in Kubernetes",
