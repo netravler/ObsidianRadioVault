@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "linux node_exporter",
+      "path": "Zettelkasten/linux node_exporter.md"
+    },
+    {
+      "basename": "Miller welding projects",
+      "path": "Zettelkasten/Miller welding projects.md"
+    },
+    {
+      "basename": "Prometheus configuration and deployment in Terraform",
+      "path": "Zettelkasten/Prometheus configuration and deployment in Terraform.md"
+    },
+    {
       "basename": "kubernetes",
       "path": "Zettelkasten/kubernetes.md"
     },
     {
       "basename": "TERRAFORM TRAINING",
       "path": "Zettelkasten/TERRAFORM TRAINING.md"
-    },
-    {
-      "basename": "Prometheus configuration and deployment in Terraform",
-      "path": "Zettelkasten/Prometheus configuration and deployment in Terraform.md"
     },
     {
       "basename": "JHA BASE EDGAR FILE LOCATOIN SEC",
@@ -191,14 +199,6 @@
     {
       "basename": "Secrets Management in Kubernetes",
       "path": "Zettelkasten/Secrets Management in Kubernetes.md"
-    },
-    {
-      "basename": "Grafana as code",
-      "path": "Zettelkasten/Grafana as code.md"
-    },
-    {
-      "basename": "semester spring 2022",
-      "path": "Zettelkasten/semester spring 2022.md"
     }
   ],
   "omittedPaths": [],
