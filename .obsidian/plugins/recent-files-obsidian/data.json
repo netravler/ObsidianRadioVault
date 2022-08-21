@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-08-21",
+      "path": "Zettelkasten/2022-08-21.md"
+    },
+    {
       "basename": "linux node_exporter",
       "path": "Zettelkasten/linux node_exporter.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to Run WSL2 at Startup on Windows",
       "path": "Zettelkasten/How to Run WSL2 at Startup on Windows.md"
-    },
-    {
-      "basename": "Secrets Management in Kubernetes",
-      "path": "Zettelkasten/Secrets Management in Kubernetes.md"
     }
   ],
   "omittedPaths": [],
