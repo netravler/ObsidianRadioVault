@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cloudflare",
+      "path": "Zettelkasten/Cloudflare.md"
+    },
+    {
       "basename": "2022-08-21",
       "path": "Zettelkasten/2022-08-21.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to build docker image from github repository",
       "path": "Zettelkasten/How to build docker image from github repository.md"
-    },
-    {
-      "basename": "How to Run WSL2 at Startup on Windows",
-      "path": "Zettelkasten/How to Run WSL2 at Startup on Windows.md"
     }
   ],
   "omittedPaths": [],
