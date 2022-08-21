@@ -3,9 +3,9 @@ pheintz@hotmail.com
 ```run-python
 
 def hello(name):
-       print(name)
+       print("Hello ", name)
 
-if --name-- == "--main--":
+if __name__ == "__main__":
      hello("Eve")
 	 
 ```
