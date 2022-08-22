@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "gh auth login",
+      "path": "Zettelkasten/gh auth login.md"
+    },
+    {
+      "basename": "prometheus and grapfana",
+      "path": "Zettelkasten/prometheus and grapfana.md"
+    },
+    {
       "basename": "pat",
       "path": "Zettelkasten/pat.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "web locations",
       "path": "Zettelkasten/web locations.md"
-    },
-    {
-      "basename": "Hiren’s BootCD PE",
-      "path": "Zettelkasten/Hiren’s BootCD PE.md"
-    },
-    {
-      "basename": "Terraforming Azure SQL Database",
-      "path": "Zettelkasten/Terraforming Azure SQL Database.md"
     }
   ],
   "omittedPaths": [],
