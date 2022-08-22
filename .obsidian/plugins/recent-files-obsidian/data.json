@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-08-22",
+      "path": "Zettelkasten/2022-08-22.md"
+    },
+    {
+      "basename": "pat",
+      "path": "Zettelkasten/pat.md"
+    },
+    {
       "basename": "Cloudflare",
       "path": "Zettelkasten/Cloudflare.md"
     },
     {
       "basename": "Centralized logging in Kubernetes",
       "path": "Zettelkasten/Centralized logging in Kubernetes.md"
-    },
-    {
-      "basename": "pat",
-      "path": "Zettelkasten/pat.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -63,10 +67,6 @@
     {
       "basename": "awk - make delimited list script",
       "path": "Zettelkasten/awk - make delimited list script.md"
-    },
-    {
-      "basename": "2022-08-22",
-      "path": "Zettelkasten/2022-08-22.md"
     },
     {
       "basename": "2022-08-21",
