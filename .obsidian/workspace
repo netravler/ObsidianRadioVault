@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/pat.md",
+            "file": "Zettelkasten/Centralized logging in Kubernetes.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/pat.md",
+                "file": "Zettelkasten/Centralized logging in Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/pat.md",
+                "file": "Zettelkasten/Centralized logging in Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +158,15 @@
   },
   "active": "8ef0dd18125f7746",
   "lastOpenFiles": [
-    "Zettelkasten/splunk stuff ip based.md",
+    "Zettelkasten/pat.md",
     "conflict-files-obsidian-git.md",
+    "Zettelkasten/splunk stuff ip based.md",
     "Zettelkasten/swedish subs.md",
     "Zettelkasten/telescope contacts.md",
     "Zettelkasten/connect mac to pc windows 10.md",
     "Zettelkasten/semester spring 2022.md",
     "pat mac.md",
     "API.md",
-    "aviationstack.md",
-    "windows terminal.md"
+    "aviationstack.md"
   ]
 }

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Centralized logging in Kubernetes",
+      "path": "Zettelkasten/Centralized logging in Kubernetes.md"
+    },
+    {
       "basename": "pat",
       "path": "Zettelkasten/pat.md"
     },
     {
-      "basename": "splunk stuff ip based",
-      "path": "Zettelkasten/splunk stuff ip based.md"
-    },
-    {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "splunk stuff ip based",
+      "path": "Zettelkasten/splunk stuff ip based.md"
     },
     {
       "basename": "swedish subs",
@@ -195,10 +199,6 @@
     {
       "basename": "Getting started with Terraform and Kubernetes on Azure AKS",
       "path": "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md"
-    },
-    {
-      "basename": "Untitled 1Build and configuration AKS on Azure using Terraform",
-      "path": "Zettelkasten/Untitled 1Build and configuration AKS on Azure using Terraform.md"
     }
   ],
   "omittedPaths": [],

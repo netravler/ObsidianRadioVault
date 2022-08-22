@@ -1,5 +1,9 @@
 {
   "baseFontSize": 16,
   "cssTheme": "",
+<<<<<<< HEAD
   "theme": "moonstone"
+=======
+  "theme": "system"
+>>>>>>> ef1384cf126c9ae98bebccc2b22be16d0a026116
 }
