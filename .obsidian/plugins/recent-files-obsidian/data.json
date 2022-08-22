@@ -1,20 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "mac setup",
-      "path": "Zettelkasten/mac setup.md"
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
-      "basename": "2022-02-07",
-      "path": "Zettelkasten/2022-02-07.md"
+      "basename": "splunk stuff ip based",
+      "path": "Zettelkasten/splunk stuff ip based.md"
+    },
+    {
+      "basename": "swedish subs",
+      "path": "Zettelkasten/swedish subs.md"
+    },
+    {
+      "basename": "telescope contacts",
+      "path": "Zettelkasten/telescope contacts.md"
+    },
+    {
+      "basename": "connect mac to pc windows 10",
+      "path": "Zettelkasten/connect mac to pc windows 10.md"
+    },
+    {
+      "basename": "semester spring 2022",
+      "path": "Zettelkasten/semester spring 2022.md"
+    },
+    {
+      "basename": "pat mac",
+      "path": "pat mac.md"
+    },
+    {
+      "basename": "API",
+      "path": "API.md"
+    },
+    {
+      "basename": "aviationstack",
+      "path": "aviationstack.md"
+    },
+    {
+      "basename": "windows terminal",
+      "path": "windows terminal.md"
+    },
+    {
+      "basename": "How I Discovered Thousands of Open Databases on AWS",
+      "path": "Zettelkasten/How I Discovered Thousands of Open Databases on AWS.md"
     },
     {
       "basename": "ASN numbers",
       "path": "Zettelkasten/ASN numbers.md"
     },
     {
+      "basename": "awk - make delimited list script",
+      "path": "Zettelkasten/awk - make delimited list script.md"
+    },
+    {
+      "basename": "2022-08-22",
+      "path": "Zettelkasten/2022-08-22.md"
+    },
+    {
+      "basename": "2022-08-21",
+      "path": "Zettelkasten/2022-08-21.md"
+    },
+    {
       "basename": "2022-08-16",
       "path": "Zettelkasten/2022-08-16.md"
+    },
+    {
+      "basename": "2022-02-07",
+      "path": "Zettelkasten/2022-02-07.md"
+    },
+    {
+      "basename": "Ploty - python test",
+      "path": "Zettelkasten/Ploty - python test.md"
+    },
+    {
+      "basename": "mac setup",
+      "path": "Zettelkasten/mac setup.md"
     },
     {
       "basename": "Field gear",
@@ -23,10 +83,6 @@
     {
       "basename": "Writing an Arduino GOTO telescope mount controller",
       "path": "Zettelkasten/Writing an Arduino GOTO telescope mount controller.md"
-    },
-    {
-      "basename": "API",
-      "path": "API.md"
     },
     {
       "basename": "wget a website folder",
@@ -39,10 +95,6 @@
     {
       "basename": "1989 Corvette pre-purchase",
       "path": "Zettelkasten/1989 Corvette pre-purchase.md"
-    },
-    {
-      "basename": "telescope contacts",
-      "path": "Zettelkasten/telescope contacts.md"
     },
     {
       "basename": "questions to ask",
@@ -63,10 +115,6 @@
     {
       "basename": "ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction",
       "path": "Zettelkasten/ESP32 with DC Motor and L298N Motor Driver – Control Speed and Direction.md"
-    },
-    {
-      "basename": "connect mac to pc windows 10",
-      "path": "Zettelkasten/connect mac to pc windows 10.md"
     },
     {
       "basename": "keyboard short cuts",
@@ -91,10 +139,6 @@
     {
       "basename": "hallo stacked loop antenna for weak signals",
       "path": "Zettelkasten/hallo stacked loop antenna for weak signals.md"
-    },
-    {
-      "basename": "swedish subs",
-      "path": "Zettelkasten/swedish subs.md"
     },
     {
       "basename": "get iRules out of an F5",
@@ -155,50 +199,6 @@
     {
       "basename": "Install IIS on Azure VM using Terraform",
       "path": "Zettelkasten/Install IIS on Azure VM using Terraform.md"
-    },
-    {
-      "basename": "Prometheus configuration and deployment in Terraform",
-      "path": "Zettelkasten/Prometheus configuration and deployment in Terraform.md"
-    },
-    {
-      "basename": "terraform for beginners",
-      "path": "Zettelkasten/terraform for beginners.md"
-    },
-    {
-      "basename": "Getting Started with Plotly in Python",
-      "path": "Zettelkasten/Getting Started with Plotly in Python.md"
-    },
-    {
-      "basename": "Ploty - python test",
-      "path": "Zettelkasten/Ploty - python test.md"
-    },
-    {
-      "basename": "How to build docker image from github repository",
-      "path": "Zettelkasten/How to build docker image from github repository.md"
-    },
-    {
-      "basename": "How to Run WSL2 at Startup on Windows",
-      "path": "Zettelkasten/How to Run WSL2 at Startup on Windows.md"
-    },
-    {
-      "basename": "TERRAFORM TRAINING",
-      "path": "Zettelkasten/TERRAFORM TRAINING.md"
-    },
-    {
-      "basename": "Secrets Management in Kubernetes",
-      "path": "Zettelkasten/Secrets Management in Kubernetes.md"
-    },
-    {
-      "basename": "Grafana as code",
-      "path": "Zettelkasten/Grafana as code.md"
-    },
-    {
-      "basename": "semester spring 2022",
-      "path": "Zettelkasten/semester spring 2022.md"
-    },
-    {
-      "basename": "How to install Brew on Ubuntu 20.04 LTS Linux",
-      "path": "Zettelkasten/How to install Brew on Ubuntu 20.04 LTS Linux.md"
     }
   ],
   "omittedPaths": [],
