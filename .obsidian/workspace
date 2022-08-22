@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/2022-08-22.md",
+            "file": "Zettelkasten/pat.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/2022-08-22.md",
+                "file": "Zettelkasten/pat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/2022-08-22.md",
+                "file": "Zettelkasten/pat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
