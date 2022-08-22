@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cloudflare",
+      "path": "Zettelkasten/Cloudflare.md"
+    },
+    {
       "basename": "Centralized logging in Kubernetes",
       "path": "Zettelkasten/Centralized logging in Kubernetes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Terraforming Azure SQL Database",
       "path": "Zettelkasten/Terraforming Azure SQL Database.md"
-    },
-    {
-      "basename": "Getting started with Terraform and Kubernetes on Azure AKS",
-      "path": "Zettelkasten/Getting started with Terraform and Kubernetes on Azure AKS.md"
     }
   ],
   "omittedPaths": [],
