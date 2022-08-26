@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/gns3.md",
-            "mode": "preview",
+            "file": "Zettelkasten/K8s.md",
+            "mode": "source",
             "backlinks": true,
             "source": true
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/gns3.md",
+                "file": "Zettelkasten/K8s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/gns3.md",
+                "file": "Zettelkasten/K8s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,8 @@
   },
   "active": "8ef0dd18125f7746",
   "lastOpenFiles": [
+    "Zettelkasten/2022-08-26.md",
+    "Zettelkasten/gns3.md",
     "Zettelkasten/gh auth login.md",
     "Zettelkasten/prometheus and grapfana.md",
     "Zettelkasten/pat.md",
@@ -165,8 +167,6 @@
     "Zettelkasten/Centralized logging in Kubernetes.md",
     "conflict-files-obsidian-git.md",
     "Zettelkasten/splunk stuff ip based.md",
-    "Zettelkasten/swedish subs.md",
-    "Zettelkasten/telescope contacts.md",
-    "Zettelkasten/connect mac to pc windows 10.md"
+    "Zettelkasten/swedish subs.md"
   ]
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "K8s",
+      "path": "Zettelkasten/K8s.md"
+    },
+    {
       "basename": "2022-08-26",
       "path": "Zettelkasten/2022-08-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sky-Watcher Star Adventurer Pro Review",
       "path": "Zettelkasten/Sky-Watcher Star Adventurer Pro Review.md"
-    },
-    {
-      "basename": "The Ultimate User Guide To The SkyWatcher Star Adventurer PRO",
-      "path": "Zettelkasten/The Ultimate User Guide To The SkyWatcher Star Adventurer PRO.md"
     }
   ],
   "omittedPaths": [],
