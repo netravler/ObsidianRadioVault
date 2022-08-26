@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-08-26",
+      "path": "Zettelkasten/2022-08-26.md"
+    },
+    {
+      "basename": "gns3",
+      "path": "Zettelkasten/gns3.md"
+    },
+    {
       "basename": "gh auth login",
       "path": "Zettelkasten/gh auth login.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Centralized logging in Kubernetes",
       "path": "Zettelkasten/Centralized logging in Kubernetes.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "splunk stuff ip based",
@@ -195,10 +199,6 @@
     {
       "basename": "The Ultimate User Guide To The SkyWatcher Star Adventurer PRO",
       "path": "Zettelkasten/The Ultimate User Guide To The SkyWatcher Star Adventurer PRO.md"
-    },
-    {
-      "basename": "web locations",
-      "path": "Zettelkasten/web locations.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/gh auth login.md",
+            "file": "Zettelkasten/gns3.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/gh auth login.md",
+                "file": "Zettelkasten/gns3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/gh auth login.md",
+                "file": "Zettelkasten/gns3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,7 @@
   },
   "active": "8ef0dd18125f7746",
   "lastOpenFiles": [
+    "Zettelkasten/gh auth login.md",
     "Zettelkasten/prometheus and grapfana.md",
     "Zettelkasten/pat.md",
     "Zettelkasten/2022-08-22.md",
@@ -166,7 +167,6 @@
     "Zettelkasten/splunk stuff ip based.md",
     "Zettelkasten/swedish subs.md",
     "Zettelkasten/telescope contacts.md",
-    "Zettelkasten/connect mac to pc windows 10.md",
-    "Zettelkasten/semester spring 2022.md"
+    "Zettelkasten/connect mac to pc windows 10.md"
   ]
 }
