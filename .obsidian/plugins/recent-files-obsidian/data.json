@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-10-22",
+      "path": "Zettelkasten/2022-10-22.md"
+    },
+    {
       "basename": "2022-09-21",
       "path": "Zettelkasten/2022-09-21.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MacBook pro shuts down randomly",
       "path": "Zettelkasten/MacBook pro shuts down randomly.md"
-    },
-    {
-      "basename": "docker",
-      "path": "Zettelkasten/docker.md"
     }
   ],
   "omittedPaths": [],
