@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "b8decae70cce26bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4b6f26c139b27f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ef0dd18125f7746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/2022-10-22.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "143e37ca89ce90af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/2023-05-31.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc21b3af2b08747d",
+    "type": "split",
+    "children": [
+      {
+        "id": "52d981187e196b7f",
+        "type": "tabs",
+        "dimension": 78.26086956521739,
+        "children": [
+          {
+            "id": "ec3e51b1d08be12d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a46b902b472e2e28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8060536ae21756f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9d75d412b5574a07",
+        "type": "tabs",
+        "dimension": 21.73913043478261,
+        "children": [
+          {
+            "id": "3512a1dbb29d7b45",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6130b5ad0e6b3342",
+    "type": "split",
+    "children": [
+      {
+        "id": "0840132878f488b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11ff2b27ae580deb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/2023-05-31.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1135804ae4a764d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a06fc8293cbade0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/2023-05-31.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ab504832a5a7c1e",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "84f6d83e6313a358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0cc008f1c1e62a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335
+  },
+  "active": "143e37ca89ce90af",
+  "lastOpenFiles": [
+    "Zettelkasten/2022-10-31.md",
+    "Zettelkasten/2022-09-21.md",
+    "Zettelkasten/K8s.md",
+    "Zettelkasten/2022-08-26.md",
+    "Zettelkasten/gns3.md",
+    "Zettelkasten/gh auth login.md",
+    "Zettelkasten/prometheus and grapfana.md",
+    "Zettelkasten/pat.md",
+    "Zettelkasten/2022-08-22.md",
+    "Zettelkasten/Centralized logging in Kubernetes.md"
+  ]
+}

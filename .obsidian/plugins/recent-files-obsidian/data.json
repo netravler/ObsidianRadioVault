@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-31",
+      "path": "Zettelkasten/2023-05-31.md"
+    },
+    {
+      "basename": "2022-10-31",
+      "path": "Zettelkasten/2022-10-31.md"
+    },
+    {
       "basename": "2022-10-22",
       "path": "Zettelkasten/2022-10-22.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Install Portainer with Docker on Windows Container Service",
       "path": "Zettelkasten/Install Portainer with Docker on Windows Container Service.md"
-    },
-    {
-      "basename": "prometheus full install linux",
-      "path": "Zettelkasten/prometheus full install linux.md"
-    },
-    {
-      "basename": "MacBook pro shuts down randomly",
-      "path": "Zettelkasten/MacBook pro shuts down randomly.md"
     }
   ],
   "omittedPaths": [],
