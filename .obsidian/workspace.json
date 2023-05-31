@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/2023-05-31.md",
+                "file": "Zettelkasten/1989 Corvette pre-purchase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/2023-05-31.md",
+                "file": "Zettelkasten/1989 Corvette pre-purchase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/2023-05-31.md",
+                "file": "Zettelkasten/1989 Corvette pre-purchase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,6 +180,7 @@
   },
   "active": "143e37ca89ce90af",
   "lastOpenFiles": [
+    "Zettelkasten/2023-05-31.md",
     "Zettelkasten/2022-10-31.md",
     "Zettelkasten/2022-09-21.md",
     "Zettelkasten/K8s.md",
@@ -188,7 +189,6 @@
     "Zettelkasten/gh auth login.md",
     "Zettelkasten/prometheus and grapfana.md",
     "Zettelkasten/pat.md",
-    "Zettelkasten/2022-08-22.md",
-    "Zettelkasten/Centralized logging in Kubernetes.md"
+    "Zettelkasten/2022-08-22.md"
   ]
 }
